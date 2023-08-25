@@ -7,4 +7,4 @@ Presentacion personal del usuario.
   - Ocupacion: Estudiante universitario
     
 ## Lenguaje de progamacion Preferido 
-   - Pyton
+   - Python
